@@ -12,4 +12,5 @@ public class HelloWorld {
 
 }
 
-Each comment should describe the purpose of the following line
+
+Modify each comment to describe the purpose of the line which follows
